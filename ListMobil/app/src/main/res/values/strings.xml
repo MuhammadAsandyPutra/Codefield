@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">ListMobil</string>
+
+    <string name="tahun_a">Tahun keluaran : 1913</string>
+    <string name="tahun_b">Tahun keluaran : 1909</string>
+    <string name="tahun_c">Tahun keluaran : 1919</string>
+    <string name="tahun_d">Tahun keluaran : 1916</string>
+    <string name="tahun_e">Tahun keluaran : 1909</string>
+    <string name="tahun_f">Tahun keluaran : 1902</string>
+    <string name="tahun_g">Tahun keluaran : 1967</string>
+    <string name="tahun_h">Tahun keluaran : 1963</string>
+    <string name="tahun_i">Tahun keluaran : 1931</string>
+    <string name="tahun_j">Tahun keluaran : 1926</string>
+    <string name="tahun_k">Tahun keluaran : 1917</string>
+    <string name="tahun_l">Tahun keluaran : 1933</string>
+    <string name="tahun_m">Tahun keluaran : 1948</string>
+    <string name="tahun_n">Tahun keluaran : 1937</string>
+    <string name="tahun_o">Tahun keluaran : 1927</string>
+
+    <string name="sejarah">Dibuat oleh Aston Martin</string>
+
+    <string name="detail_a">
+        <p>Nama Aston Martin berasal dari salah satu pendiri perusahaan. Lionel Martin dan dari kompetisi Aston Hill Climb,
+        di mana dirinya akhirnya menemukan kesuksesan. Lencana "Sayap" dipilih pada tahun 1927 untuk mewakili kecepatan,
+        dan diduga mengambil inspirasi dari "Winged B"</p>
+    </string>
+
+    <string name="detail_b">
+        <p>Didirikan oleh August Horsch atas saran anaknya setelah dirinya kalah atas nama perusahaan Horch Automobil-Werke
+        GmbH dari partnernya. Cincin, mewakili setiap merek, tumpang tindih untuk menandakan persatuan. Mereka berwarna perak,
+        warna balap nasional Jerman</p>
+    </string>
+
+    <string name="detail_c">
+        <p>
+            Bentley mulai membuat mesin pesawat pada perang dunia pertama, jadi sayapnya tampak alami. Warna perak pada logo mewakili
+            kecanggihan. Sebenarnya ada jumlah bulu yang tidak merata di kedua sisi sayap dan jumlahnya bervariasi sepanjang sejarah.
+            Emblem ini dirancang oleh Frederick Gordon Crosby (1885 - 1943).
+        </p>
+    </string>
+
+    <string name="detail_d">
+        <p>
+            BMW adalah inisial bahasa Jerman dari Bavarian Motor Works. Lingkaran eksterior hitam berasal dari logo perusahaan pendahulu BMW, Rapp.
+            sedangkan lingkaran kotak-kotak biru melambangkan bendera Bavaria.
+        </p>
+    </string>
+
+    <string name="detail_e">
+        <p>
+            Motif di dalam oval tersebut mewakili inisial pendiri merek, Ettore Bugatti (1881-1947). Tapi banyak yang tidak sadar, bahwa logo Bugatti ini
+            memiliki 60 titik di sekitar tepi merah oval dengan dua arti yang berbeda.
+        </p>
+    </string>
+
+    <string name="detail_f">
+        <p>
+            Nama ini berasal dari pendiri Detroit, penjelajah Prancis Antoine Laumet de la Mothe (1658-1730), yang mendapat gelar sieur(sir) Cadillac.
+            Lencana rumit berasal dari lambang buatannya, yang didasarkan pada perisai otentik, Baron of Lamothe-Bardigues.
+        </p>
+    </string>
+
+    <string name="detail_g">
+        <p>
+            Hyundai memiliki makna tersembunyi. Ini dimaksudkan sebagai jabat tangan kepercayaan antara dua orang atau digambarkan sebagai bentuk komitmen
+            perusahaan dan konsumen, dengan perusahaan yang bersandar atau dalam pelukan perusahaan.
+        </p>
+    </string>
+
+    <string name="detail_h">
+        <p>
+            Logo Lamborghini berdasarkan zodiak pendiri yakni Feruccio Lamborghini (1916-1993), yaitu Taurus. Inspirasi ini semakin menguat setelah dirinya
+            berkunjung ke peternakan terkenal yang memelihara sapi jantan Miura di Seville.
+        </p>
+    </string>
+
+    <string name="detail_i">
+        <p>
+            Mazda diambil dari Ahura Mazda, yang terinspirasi dari dewa Zoroastrianisme, sebuah agama kepercayaan yang menonjol di budaya Asia pada era awal.
+            "Mazda" diterjemahkan sebagai "kebijaksanaan".
+        </p>
+    </string>
+
+    <string name="detail_j">
+        <p>
+            Nama bagian Mercedes berasal dari putri pasangan Daimler Emil Jellinek (1853-1918). Benz berasal dari Karl Benz (1844-1929), pembuat mobil asli pertama.
+        </p>
+    </string>
+
+    <string name="detail_k">
+        <p>
+            Mitsubishi diambil dari makn, "Mitsu" berarti tiga sedangkan "Hishi" berarti caltrop air atau yang sering digunakan untuk menyebut belah ketupat atau intan.
+        </p>
+    </string>
+
+    <string name="detail_l">
+        <p>
+            Nissan merupakan singkatan dari Nihon Sangyon yang merupakan induk perusahaan Datsun. Logo Nissan diubah menjadi krom pada 1990-an untuk mewakili modernitas.
+        </p>
+    </string>
+
+    <string name="detail_m">
+        <p>
+            Lambang Porsche secara intrinsik terkait dengan kota asal merek tersebut yang tertulis di bagian tengah. Di bawahnya adalah seekor kuda "Stuttgart" yang
+            diterjemahkan sebagai "Stud Garden atau Taman Pejantan"
+        </p>
+    </string>
+
+    <string name="detail_n">
+        <p>
+            Bentuk oval bagian dalam melambangkan hati pelanggan dan hati perusahaan, tumpang tindih untuk mewakili hubungan dan kepercayaan yang saling menguntungkan,
+            serta membentuk bentuk "T" untuk Toyota. Oval luar adalah untuk dunia yang merangkuk Toyota.
+        </p>
+    </string>
+
+    <string name="detail_o">
+        <p>
+            Nama Volvo diambil dari bahasa Latin yang berarti "I roll" atau berputar. Para pendiri Volvo telah berkecimpung di industri besi dan besi memiliki kualitas
+            seperti kekuatan, keamanan, dan daya tahan yang merekea ingin ditunjukkan pada mobil mereka.
+        </p>
+    </string>
+
+    <string name="achiev_a">
+        <b>
+            Pernah memenangkan Otomotif Dunia
+        </b>
+    </string>
+</resources>
